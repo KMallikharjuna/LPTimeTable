@@ -8,7 +8,6 @@ public class ReadData {
 		int x = io.readInt();
 		LaunchpadIO.show("Enter the second number ");
 		int y = io.readInt();
-		
 		LaunchpadIO.show("The sum is "+(x+y));
 	}
 }
